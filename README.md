@@ -2,6 +2,8 @@
 
 ## Hyperledger Fabric Samples(1.4.2)
 
+二进制文件和镜像文件参考：https://github.com/Z14010040/fabric-gm-soft
+
 - 将二进制可执行文件拷贝到bin目录
 
 二进制文件：peer、orderer、cryptogen、idemixgen、discover、configtxgen、configtxlator、discover
